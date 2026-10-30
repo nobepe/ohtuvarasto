@@ -1,1 +1,2 @@
 Tiedostoa on muokattu:)
+harjoitellaan gitt add -p komentoa
