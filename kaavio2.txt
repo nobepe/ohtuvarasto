@@ -1,2 +1,0 @@
-On muokattu
-harjoittelen git add -p :tä
