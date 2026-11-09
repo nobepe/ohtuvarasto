@@ -3,6 +3,8 @@ from varasto import Varasto
 
 # shift + opt + f = format code
 
+x = 5
+print (x)
 
 def tulosta_luonnin_jalkeen(mehua, olutta):
     print("Luonnin jälkeen:")
